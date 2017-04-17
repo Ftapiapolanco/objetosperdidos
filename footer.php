@@ -18,7 +18,12 @@
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
 
 
-        <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+            <!--Librerias para el visor de imagenes de la pagina detalle -->
+        <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
+
+
+            <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
         <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
         <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 

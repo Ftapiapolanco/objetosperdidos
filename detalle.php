@@ -69,6 +69,7 @@ include("header.php");
                             </div><!-- POST -->
                         </div>
                     </div>
+                    <div class="clearfix"></div>
                 </div>
 
 

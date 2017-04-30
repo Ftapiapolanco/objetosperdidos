@@ -17,8 +17,8 @@
         <!-- get jQuery from the google apis -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
 
+        <!--Librerias para el visor de imagenes de la pagina detalle http://fotorama.io-->
 
-            <!--Librerias para el visor de imagenes de la pagina detalle http://fotorama.io-->
         <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
         <script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
 
